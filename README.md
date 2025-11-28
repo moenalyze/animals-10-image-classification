@@ -20,5 +20,7 @@ Model dikonversi ke format:
 * `.tflite` (Mobile Deployment)
 * `.json` (TensorFlow.js for Web)
 
+Link Google Drive: https://drive.google.com/drive/folders/1-6_YKGB433oncHB_xm_edHGLGNF3oQ8v?usp=sharing
+
 ## 🔧 Requirements
 `tensorflow`, `numpy`, `matplotlib`, `pillow`
